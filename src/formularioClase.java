@@ -18,6 +18,7 @@ public class formularioClase extends JFrame
     private JPasswordField pwdContra;
     private JCheckBox chkMostrar;
     private JCheckBox chkAceptar;
+    private JLabel lblTitulo;
 
 
     public formularioClase()
